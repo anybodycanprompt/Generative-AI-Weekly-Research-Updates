@@ -229,3 +229,11 @@
 | Dec 18-Dec 24 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing | [Link](https://arxiv.org/pdf/2309.09128.pdf) |
 | Dec 18-Dec 24 | Silent Guardian: Protecting Text from Malicious Exploitation by Large Language Models | [Link](https://arxiv.org/pdf/2312.09669.pdf) |
 | Dec 18-Dec 24 | GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants | [Link](https://arxiv.org/pdf/2309.05138.pdf) |
+| Dec 25-Dec 31 | Large Language Model (LLM) Bias Index—LLMBI | [Link](https://arxiv.org/ftp/arxiv/papers/23...) |
+| Dec 25-Dec 31 | A Pathway Towards Responsible AI Generated Content | [Link](https://arxiv.org/pdf/2303.01325.pdf) |
+| Dec 25-Dec 31 | MATHPILE: A Billion-Token-Scale Pretraining Corpus for Math | [Link](https://arxiv.org/pdf/2312.17120.pdf) |
+| Dec 25-Dec 31 | SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security | [Link](https://arxiv.org/pdf/2312.15838.pdf) |
+| Dec 25-Dec 31 | Alleviating Hallucinations of Large Language Models through Induced Hallucinations | [Link](https://arxiv.org/pdf/2312.15710.pdf) |
+| Dec 25-Dec 31 | EcomGPT-CT: Continual Pre-training of E-commerce Large Language Models with Semi-structured Data | [Link](https://arxiv.org/pdf/2312.15696.pdf) |
+| Dec 25-Dec 31 | Unlocking the Potential of Large Language Models for Explainable Recommendations | [Link](https://arxiv.org/pdf/2312.15661.pdf) |
+| Dec 25-Dec 31 | Rethinking Tabular Data Understanding with Large Language Models | [Link](https://arxiv.org/pdf/2312.16702.pdf) |
