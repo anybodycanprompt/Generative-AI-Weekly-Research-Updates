@@ -363,3 +363,38 @@
 | Apr 22-Apr 28 | VideoGigaGAN: Towards Detail-rich Video Super-Resolution | [Link](https://arxiv.org/pdf/2404.12388.pdf) |
 | Apr 22-Apr 28 | LLM Agents can Autonomously Exploit One-day Vulnerabilities | [Link](https://arxiv.org/pdf/2404.08144.pdf) |
 | Apr 22-Apr 28 | Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone | [Link](https://arxiv.org/pdf/2404.14219.pdf) |
+| May 3-May 4 | InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation | [Link](https://arxiv.org/pdf/2404.19427.pdf) |
+| May 3-May 4 | RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing | [Link](https://arxiv.org/pdf/2404.19543.pdf) |
+| May 5-May 7 | WHEN LLMS MEET CYBERSECURITY: A SYSTEMATIC LITERATURE REVIEW | [Link](https://arxiv.org/pdf/2405.03644.pdf) |
+| May 5-May 7 | FairMonitor: A Dual-framework for Detecting Stereotypes and Biases in Large Language Models | [Link](https://arxiv.org/pdf/2405.03098.pdf) |
+| May 5-May 7 | Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management | [Link](https://arxiv.org/pdf/2405.03076.pdf) |
+| May 5-May 7 | Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning | [Link](https://arxiv.org/pdf/2404.09491.pdf) |
+| May 8-May 9 | xLSTM: Extended Long Short-Term Memory | [Link](https://arxiv.org/pdf/2405.04517.pdf) |
+| May 17-May 19 | UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models | [Link](https://arxiv.org/pdf/2405.10311.pdf) |
+| May 17-May 19 | A Systematic Evaluation of Large Language Models for Natural Language Generation Tasks | [Link](https://arxiv.org/pdf/2405.10251.pdf) |
+| May 17-May 19 | Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness | [Link](https://arxiv.org/pdf/2405.08151.pdf) |
+| May 20-May 21 | Frontier Safety Framework | [Link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/introducing-the-frontier-safety-framework/fsf-technical-report.pdf) |
+| May 20-May 21 | xFinder: Robust and Pinpoint Answer Extraction for Large Language Models | [Link](https://arxiv.org/pdf/2405.11874.pdf) |
+| May 20-May 21 | Realistic Evaluation of Toxicity in Large Language Models | [Link](https://arxiv.org/pdf/2405.10659.pdf) |
+| May 22-May 23 | Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone | [Link](https://arxiv.org/pdf/2404.14219.pdf) |
+| May 22-May 23 | Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet | [Link](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) |
+| May 25-May 27 | Advancing YOLOv10: Enhancing Real-Time Object Detection Through Improved Design and Efficiency | [Read More](https://arxiv.org/pdf/2405.14458) |
+| May 25-May 27 | Semantica: Adapting Image Diffusion Models to Diverse Datasets Without Finetuning | [Read More](https://arxiv.org/html/2405.14857v1) |
+| May 25-May 27 | Exploring Large Language Models' Superiority in Financial Statement Analysis Over Traditional Analysts | [Read More](https://bfi.uchicago.edu/wp-content/uploads/2024/05/BFI_WP_2024-65.pdf) |
+| May 25-May 27 | Exploring the Impact and Opportunities of Generative AI in Fact-Checking: A Global Study | [Read More](https://arxiv.org/pdf/2405.15985) |
+| May 28-May 30 | Exploring Vision-Language Models: Applications and Challenges | [Read more](https://arxiv.org/pdf/2405.17247) |
+| May 28-May 30 | Denoising LM Breakthrough: Speech Recognition Error Rates Plummet | [Read more](https://arxiv.org/pdf/2405.15216) |
+| May 28-May 30 | Extending Context Length in LLMs: New Techniques and Methods | [Read more](https://arxiv.org/pdf/2402.02244) |
+| May 30-Jun 2 | GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning | [Link](https://arxiv.org/pdf/2405.20139) |
+| May 30-Jun 2 | Applications of Generative AI (GAI) for Mobile and Wireless Networking: A Survey | [Link](https://arxiv.org/pdf/2405.20024) |
+| May 30-Jun 2 | Synthetic Patients: Simulating Difficult Conversations with Multimodal Generative AI for Medical Education | [Link](https://arxiv.org/pdf/2405.19941) |
+| Jun 3-Jun 5 | SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales | [Link](https://arxiv.org/pdf/2405.20974) |
+| Jun 3-Jun 5 | SEVENLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence | [Link](https://arxiv.org/pdf/2405.03446) |
+| Jun 3-Jun 5 | A Survey on Self-Evolution of Large Language Models | [Link](https://arxiv.org/pdf/2404.14387) |
+| Jun 3-Jun 5 | ID.8: Co-Creating Visual Stories with Generative AI | [Link](https://arxiv.org/pdf/2309.14228) |
+| Jun 5-Jun 6 | Towards Safer Large Language Models through Machine Unlearning | [Link](https://arxiv.org/pdf/2402.10058) |
+| Jun 5-Jun 6 | Entity Matching using Large Language Models | [Link](https://arxiv.org/pdf/2310.11244) |
+| Jun 5-Jun 6 | LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing | [Link](https://arxiv.org/pdf/2406.02350) |
+| Jun 5-Jun 6 | A Robot Walks into a Bar: Can Language Models Serve as Creativity Support Tools for Comedy? An Evaluation of LLMs’ Humour Alignment with Comedians | [Link](https://arxiv.org/pdf/2405.20956) |
+| Jun 7-Jun 9 | Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models | [Link](https://arxiv.org/pdf/2406.04271) |
+| Jun 7-Jun 9 | Scaling Neural Machine Translation to 200 Languages | [Link](https://www.nature.com/articles/s41586-024-07335-x) |
